@@ -27,7 +27,7 @@ class user {
   }
 }
 
-const david = new user(); //Aqui se esta llamando al constructor que inicializa los elementos cuando  son asignados con esta palabra  'new user' cuando hacemos la instancia(const david = new user())
+const david = new user(); //Aqui se esta llamando al constructor que inicializa los elementos cuando  son asignados con esta palabra  'NEW' antes de user  que seria el nombre de la clase,cuando hacemos la instancia(const david = new user())
 
 //THIS
 
